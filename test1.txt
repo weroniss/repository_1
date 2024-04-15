@@ -1,7 +1,11 @@
 git
 modyfikacja 2
+<<<<<<< HEAD
 modyfikacja3
 modyfikacja4
 modyfikacja4
 cos tam
 zmiana 6
+=======
+modyfikacja3
+>>>>>>> parent of 5c7bbec (dodanie modyfikacji nr 4 w pliku test1,txt)
